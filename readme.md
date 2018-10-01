@@ -4,7 +4,7 @@ It attempts to classify images to their [Gardiner](https://en.wikipedia.org/wiki
 
 **Image** | ![GitHub Logo](/examples/200000_S29.png) | ![GitHub Logo](/examples/200001_V13.png) | ![GitHub Logo](/examples/200003_G43.png) 
 ------------ | ------------ | ------------- | -------------
-**Gardener Label** | S29 | V13 | G43
+**Gardiner Label** | S29 | V13 | G43
 
 In addition to the source code, we also provide a dataset containing 4210 manually annotated images of Egyptian hieroglyphs found in the [Pyramid of Unas](https://en.wikipedia.org/wiki/Pyramid_of_Unas).
 The dataset will be automatically downloaded when using `train.py` to train a new classifier, but is also available [here](http://iamai.nl/downloads/GlyphDataset.zip)
